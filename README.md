@@ -27,6 +27,8 @@ Not just steps —
 A path you walk, project by project, until things start making sense.
 
 ---
+##  Step 0 — Setup your environment
+https://www.youtube.com/watch?v=D4wHnTLAFlI
 
 ## 🧱 Step 1 — Learning to Build (HTML & CSS)
 
@@ -41,6 +43,16 @@ You realize you're building something from nothing.
 ### You learn:
 - HTML tags (headings, paragraphs, images, links, forms)
 - Layouts using Flexbox and Grid
+### 📚 Resources:
+- HTML:  
+  https://www.youtube.com/watch?v=HD13eq_Pmp8  
+  https://www.youtube.com/watch?v=BsDoLVMnmZs  
+  https://www.w3schools.com/html/default.asp  
+
+- CSS:  
+  https://www.youtube.com/watch?v=wRNinF7YQqQ  
+  https://www.youtube.com/watch?v=Edsxf_NBFrw  
+  https://www.w3schools.com/css/default.asp  
 
 ### You try:
 - Styling your page
@@ -74,6 +86,11 @@ This is where it clicks —
 - DOM manipulation (very important)  
 - Event handling  
 
+### 📚 Resources:
+https://www.youtube.com/playlist?list=PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv  
+https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR  
+https://www.freecodecamp.org/learn/javascript-v9/  
+
 ### 🛠 Beginner Projects:
 - To-Do List  
 - Counter App  
@@ -96,6 +113,15 @@ And start building structured applications.
 - Hooks (`useState`, `useEffect`)  
 - Routing  
 - Reusable components  
+
+### 📚 Resources:
+- React:  
+  https://www.youtube.com/watch?v=dCLhUialKPQ  
+  https://www.youtube.com/watch?v=-mJFZp84TIY  
+  https://www.w3schools.com/react/default.asp  
+
+- Next.js (optional):  
+  https://www.youtube.com/watch?v=ZVnjOPwW4ZA  
 
 ### You explore:
 - Tailwind CSS  
@@ -121,7 +147,12 @@ Saving progress. Collaborating.
 ### You learn:
 - Git basics (`init`, `add`, `commit`, `push`)  
 - Branches  
-- Pull requests  
+- Pull requests
+
+### 📚 Resources:
+https://www.youtube.com/watch?v=xuB1Id2Wxak  
+https://www.youtube.com/watch?v=MuZySo5lF8E  
+https://www.w3schools.com/git/default.asp  
 
 👉 You do this while building everything
 
@@ -138,6 +169,9 @@ Your project is no longer “just frontend”.
 
 ### You build:
 - Notes App with authentication + database  
+
+### 📚 Resources:
+  https://www.youtube.com/watch?v=2hR-uWjBAgw  
 
 ### 🛠 Beginner Upgrade:
 - Add login/signup  
@@ -159,7 +193,10 @@ You pause coding for a bit… and understand:
 - Request & Response  
 - APIs  
 - JSON  
-- Status codes  
+- Status codes
+
+### 📚 Resources:
+  https://www.youtube.com/watch?v=hJHvdBlSxug
 
 Now things start connecting in your head.
 
@@ -179,7 +216,15 @@ No more shortcuts.
 - Express  
 - APIs  
 - Routing & middleware  
-- CRUD operations  
+- CRUD operations
+
+### 📚 Resources:
+- Node.js:  
+  https://www.youtube.com/watch?v=yEHCfRWz-EI  
+  https://www.w3schools.com/nodejs/default.asp  
+
+- Express:  
+  https://www.youtube.com/watch?v=fBzm9zja2Y8  
 
 ### You also learn (this is where growth happens):
 - Debugging  
@@ -210,6 +255,10 @@ Your app feels… real.
 - Schema design  
 - Mongoose  
 
+### 📚 Resources:
+https://www.youtube.com/watch?v=ExcRbA7fy_A  
+https://www.w3schools.com/mongodb/index.php
+
 ### 🛠 Beginner Projects:
 - Blog Website  
 - Task Manager with backend  
@@ -227,7 +276,11 @@ Your app becomes more secure, more stable.
 ### You learn:
 - JWT authentication  
 - API security  
-- Error handling  
+- Error handling
+
+### 📚 Resources:
+https://www.youtube.com/watch?v=xJA8tP74KD0  
+https://www.w3schools.com/nodejs/nodejs_api_auth.asp  
 
 ⏱ Time: ~1 week
 
