@@ -1,4 +1,4 @@
-# 🚀 Full-Stack Web Development Roadmap (GDG CVJIT)
+# 🚀 Full-Stack Web Development Roadmap (GDGoC VJIT)
 
 ## ⚠️ Before you start…
 
